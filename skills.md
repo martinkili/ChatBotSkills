@@ -1,3 +1,3 @@
 - ventas.txt → Reglas y procesos del área de ventas
 - sucursales.txt → Informacion de Sucursales
-- soporte.txt → Proceso de atención al cliente y soporte técnico
+- solicitud.txt → Proceso para solicitar un prestamo y que un asesor que contacte.
