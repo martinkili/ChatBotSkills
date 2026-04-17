@@ -1,3 +1,3 @@
 - ventas.txt → Reglas y procesos del área de ventas
-- facturacion.txt → Procedimientos de facturación y cobros  
+- sucursales.txt → Informacion de Sucursales
 - soporte.txt → Proceso de atención al cliente y soporte técnico
