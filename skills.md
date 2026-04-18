@@ -1,3 +1,3 @@
 - ventas.txt → Reglas y procesos del área de ventas
 - sucursales.txt → Informacion de Sucursales
-- solicitud.txt → Pasos y validaciones para guiar al cliente a solicitar un préstamo.
+- flujo_solicitud.txt → Pasos para recopilar datos del cliente cuando quiere solicitar un préstamo
